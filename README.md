@@ -12,7 +12,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/endriking_/)   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-118?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/EndricLopes/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-118?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/endric-lopes-de-souza/)  
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FFF)](https://www.discord.com/in/SEUUSERNAME/)
 
