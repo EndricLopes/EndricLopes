@@ -3,7 +3,7 @@
 
 📚 Eu estudo Análise e Desenvolvimento de Sistemas no UniCeub. Comecei a estudar TI em fevereiro de 2023.
 
-🎯 Planejo estudar todas as áreas para ser capaz de trabalhar como fullstack, mas meu foco é no Backend.
+🎯 Planejo estudar todas as áreas para ser capaz de trabalhar como fullstack, tenho meu foco é no Backend.
 
 💻 Atualmente sou estagiário na empresa DataMidas.
 
